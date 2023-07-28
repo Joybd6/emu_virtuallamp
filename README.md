@@ -11,7 +11,7 @@ sudo apt-get install libsdl2-2.0-0
 
 Now clone the repository
 ```
-git clone
+git clone git@github.com:Joybd6/emu_virtuallamp.git
 ```
 
 Compile the source code
